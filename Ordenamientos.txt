@@ -3,7 +3,7 @@
 		/* ALGORITMO DE RECURSIÓN */
 
 LISTA DE REPRODUCCION ALGORITMO DE RECURSIÓN MERGE SORT
-https://youtu.be/ntpk0mKnc_8
+https://www.youtube.com/playlist?list=PLBHZM_o-621QeVZstT7WvWJvPKZ792IKm
 
 PARTE 1 | ALGORITMO DE RECURSIÓN: MERGE SORT 
 https://youtu.be/ntpk0mKnc_8
@@ -17,7 +17,7 @@ https://youtu.be/D2jKXpN7E0g
 		/* ALGORITMO DE SELECCIÓN */
 
 LISTA DE REPRODUCCION ALGORTIMO ITERATIVO DE SELECCIÓN
-https://youtu.be/l2b47jE706U
+https://www.youtube.com/playlist?list=PLBHZM_o-621RzUCCZFweGaryu12XBWN48
 
 PARTE 1 | ALGORITMO ITERATIVO DE SELECCIÓN
 https://youtu.be/l2b47jE706U
