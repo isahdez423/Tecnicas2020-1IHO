@@ -1,5 +1,8 @@
 #include "Matrices.h"
 
+/* Muy bien organizado, documentado y distribuido tu código. 
+Felicitaciones */
+
 /*Llenan los datos de las personas*/
 struct Persona llenarPersonaTypeDef(){
 	persona_t persona;
