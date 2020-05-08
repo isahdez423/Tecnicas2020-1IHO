@@ -1,0 +1,62 @@
+----------------------------------------
+MERGE SORT 10 ELEMENTOS DESORDENADOS
+Fecha: Sat May 02 13:35:34 2020
+Inicio: 3 
+Fin: 5
+Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 100 ELEMENTOS DESORDENADOS
+Fecha: Sat May 02 13:36:18 2020
+Inicio: 47 
+Fin: 49
+Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 1000 ELEMENTOS DESORDENADOS
+Fecha: Sat May 02 13:36:58 2020
+Inicio: 239 
+Fin: 243
+Tiempo de ejecucion: 4.000000
+----------------------------------------
+MERGE SORT 10000 ELEMENTOS DESORDENADOS
+Fecha: Sat May 02 13:38:30 2020
+Inicio: 1858 
+Fin: 1863
+Tiempo de ejecucion: 5.000000
+
+------------ ORDENADOS ------------
+
+MERGE SORT 10 ELEMENTOS ORDENADOS
+Fecha: Sat May 02 13:43:11 2020
+Inicio: 5 
+Fin: 6
+Tiempo de ejecucion: 1.000000
+----------------------------------------
+MERGE SORT 100 ELEMENTOS ORDENADOS
+Fecha: Sat May 02 13:44:27 2020
+Inicio: 62 
+Fin: 64
+Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 1000 ELEMENTOS ORDENADOS
+Fecha: Sat May 02 13:45:05 2020
+Inicio: 134 
+Fin: 136
+Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 10000 ELEMENTOS ORDENADOS
+Fecha: Sat May 02 13:45:40 2020
+Inicio: 50 
+Fin: 53
+Tiempo de ejecucion: 3.000000
+----------------------------------------
+MERGE SORT 1000 NÚMEROS DE MAYOR A MENOR
+Fecha: Sat May 02 13:47:55 2020
+Inicio: 0 
+Fin: 2
+Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 1000 NÚMEROS DE MAYOR A MENOR
+Fecha: Sat May 02 13:49:22 2020
+Inicio: 0 
+Fin: 2
+Tiempo de ejecucion: 2.000000

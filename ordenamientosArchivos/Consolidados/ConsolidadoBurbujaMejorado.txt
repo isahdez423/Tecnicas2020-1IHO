@@ -1,0 +1,74 @@
+------------------------------
+BURBUJA 10 NÚMEROS DESORDENADOS
+Fecha: Sat May 02 08:34:54 2020
+Inicio: 1 
+Fin: 3
+Tiempo de ejecucion: 2.000000
+Comparaciones 42
+Intercambios 14
+------------------------------
+BURBUJA 100 NÚMEROS DESORDENADOS
+Fecha: Sat May 02 08:38:00 2020
+Inicio: 12 
+Fin: 14
+Tiempo de ejecucion: 2.000000
+Comparaciones 4914
+Intercambios 2413
+------------------------------
+BURBUJA 1000 NÚMEROS DESORDENADOS
+Fecha: Sat May 02 08:39:03 2020
+Inicio: 200 
+Fin: 204
+Tiempo de ejecucion: 4.000000
+Comparaciones 498834
+Intercambios 227032
+------------------------------
+BURBUJA 10000 NÚMEROS DESORDENADOS
+Fecha: Sat May 02 08:39:45 2020
+Inicio: 16 
+Fin: 305
+Tiempo de ejecucion: 289.000000
+Comparaciones 49994535
+Intercambios 21356650
+
+------------ ORDENADOS ------------
+BURBUJA 10 NÚMEROS ORDENADOS
+Fecha: Sat May 02 08:41:23 2020
+Inicio: 0 
+Fin: 1
+Tiempo de ejecucion: 1.000000
+Comparaciones 9
+Intercambios 0
+-----------------------------
+BURBUJA 100 NÚMEROS ORDENADOS
+Fecha: Sat May 02 08:42:51 2020
+Inicio: 0 
+Fin: 1
+Tiempo de ejecucion: 1.000000
+Comparaciones 99
+Intercambios 0
+-----------------------------
+BURBUJA 1000 NÚMEROS ORDENADOS
+Fecha: Sat May 02 08:43:19 2020
+Inicio: 19 
+Fin: 21
+Tiempo de ejecucion: 2.000000
+Comparaciones 999
+Intercambios 0
+-----------------------------
+BURBUJA 10000 NÚMEROS ORDENADOS
+Fecha: Sat May 02 08:43:37 2020
+Inicio: 18 
+Fin: 20
+Tiempo de ejecucion: 2.000000
+Comparaciones 9999
+Intercambios 0
+-----------------------------
+BURBUJA 1000 NÚMEROS DE MAYOR A MENOR
+Fecha: Sat May 02 08:45:07 2020
+Inicio: 0 
+Fin: 4
+Tiempo de ejecucion: 4.000000
+Comparaciones 499499
+Intercambios 499499
+
