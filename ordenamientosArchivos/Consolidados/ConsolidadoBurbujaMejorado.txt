@@ -71,4 +71,24 @@ Fin: 4
 Tiempo de ejecucion: 4.000000
 Comparaciones 499499
 Intercambios 499499
-
+-----------------------------
+BURBUJA 500000 NÚMEROS DESORDENADOS
+Fecha inicio: Thu May 07 23:31:12 2020
+Fecha fin: Thu May 07 23:36:56 2020
+Tiempo de ejecucion: 344016.000000
+Comparaciones 445696985 
+Intercambios 535453420 
+-----------------------------
+BURBUJA 20000 NÚMEROS DESORDENADOS
+Fecha inicio: Thu May 07 23:57:39 2020
+Fecha fin: Thu May 07 23:57:40 2020
+Tiempo de ejecucion: 1159.000000
+Comparaciones 199970890 
+Intercambios 88772329 
+-----------------------------
+BURBUJA 100000 NÚMEROS DESORDENADOS
+Fecha inicio: Fri May 08 00:06:50 2020
+Fecha fin: Fri May 08 00:07:22 2020
+Tiempo de ejecucion: 31901.000000
+Comparaciones 704956826 
+Intercambios 1788922785 

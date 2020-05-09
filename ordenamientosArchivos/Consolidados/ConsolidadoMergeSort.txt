@@ -60,3 +60,18 @@ Fecha: Sat May 02 13:49:22 2020
 Inicio: 0 
 Fin: 2
 Tiempo de ejecucion: 2.000000
+----------------------------------------
+MERGE SORT 20000 NÚMEROS ALEATORIOS
+Fecha inicio: Thu May 07 23:52:44 2020
+Fecha final: Thu May 07 23:52:44 2020
+Tiempo de ejecucion: 7.000000
+----------------------------------------
+MERGE SORT 100000 NÚMEROS ALEATORIOS
+Fecha inicio: Fri May 08 00:10:57 2020
+Fecha final: Fri May 08 00:10:57 2020
+Tiempo de ejecucion: 31.000000
+----------------------------------------
+MERGE SORT 1000 NÚMEROS DE MAYOR A MENOR
+Fecha inicio: Fri May 08 00:14:30 2020
+Fecha final: Fri May 08 00:14:30 2020
+Tiempo de ejecucion: 2.000000
