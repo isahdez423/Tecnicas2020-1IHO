@@ -74,14 +74,6 @@ Tiempo de ejecucion: 6.000000
 Comparaciones 499500
 Intercambios 500
 ------------------------------------
-SELECTION SORT 100000 NÚMEROS DESORDENADOS
-Fecha: Sat May 02 17:45:18 2020
-Inicio: 37 
-Fin: 20674
-Tiempo de ejecucion: 20637.000000
-Comparaciones 704982704
-Intercambios 99981
-------------------------------------
 SELECTION SORT 500000 NÚMEROS DESORDENADOS
 Fecha: Sat May 02 17:47:03 2020
 Inicio: 37 
@@ -89,3 +81,18 @@ Fin: 512508
 Tiempo de ejecucion: 512471.000000
 Comparaciones 445698416
 Intercambios 499973
+------------------------------------
+SELECTION SORT 20000 NÚMEROS ALEATORIOS
+Fecha: Fri May 08 00:00:53 2020
+Fecha final: Fri May 08 00:00:54 2020
+Tiempo de ejecucion: 523.000000
+Comparaciones 199990000
+Intercambios 19987
+------------------------------------
+SELECTION SORT 100000 NÚMEROS ALEATORIOS
+Fecha: Fri May 08 00:04:36 2020
+Fecha final: Fri May 08 00:04:50 2020
+Tiempo de ejecucion: 13448.000000
+Comparaciones 704982704
+Intercambios 99981
+
